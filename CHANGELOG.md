@@ -1,4 +1,9 @@
 # Changelog
+## 0.8.24
+
+### Fixed
+
+- Fixed issue when a weather provider stops providing a high or low forecast, and neither forecast gets showin in the card.
 
 ## 0.8.23
 
