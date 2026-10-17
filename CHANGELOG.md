@@ -1,4 +1,10 @@
 # Changelog
+## 0.8.25
+
+### Changed
+
+- The daily forecast headline temperature now uses the average of the day's remaining hourly forecast when available, then the day's high, then the day's low.
+
 ## 0.8.24
 
 ### Fixed
